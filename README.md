@@ -1,10 +1,11 @@
 <h1 align="center">Hello, I am SALT!</h1>
 <h3 align="center">A Lua scripter.</h3>
-[![MasterHead](https://i.pinimg.com/originals/2e/a7/c9/2ea7c9a114ab55fdf51fa7948854b9a6.gif)](https://salts.cc)
 
 - Currently Working on [Futuretops Script.](https://github.com/sheluvsalt/lol/blob/main/Futuretops.lua)
 
 - Owner @ [Galaxy Stock.](discord.gg/trolimon)
+
+- Owner @ [Salts.cc](https://https://salts.cc)
 
 - Owner @ [Chicago Hood](https://www.roblox.com/games/18632225277/Chicago-Hood-Voice-Chat-Only-RP-Game)
 
