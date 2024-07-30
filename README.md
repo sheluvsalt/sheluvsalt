@@ -3,7 +3,7 @@
 
 - Currently Working on [Futuretops Script.](https://github.com/sheluvsalt/lol/blob/main/Futuretops.lua)
 
-- Owner @ [Galaxy Stock.](discord.gg/trolimon)
+- Owner @ [Sigma Discord](https://discord.gg/aCXCcGwMkb)
 
 - Owner @ [Salts.cc](https://https://salts.cc)
 
