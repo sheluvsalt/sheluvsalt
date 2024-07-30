@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)](https://salts.cc)
 <h1 align="center">Hello, I am SALT!</h1>
 <h3 align="center">A Lua scripter.</h3>
 
@@ -8,7 +7,6 @@
 
 - Owner @ [Salts.cc](https://https://salts.cc)
 
-- Owner @ [Chicago Hood](https://www.roblox.com/games/18632225277/Chicago-Hood-Voice-Chat-Only-RP-Game)
 
 - All of my projects are available at [https://github.com/sheluvsalt](https://github.com/sheluvsalt)
 
