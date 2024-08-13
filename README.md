@@ -3,9 +3,6 @@
 
 - Currently Working on [Futuretops Script.](https://github.com/sheluvsalt/lol/blob/main/Futuretops.lua)
 
-- Owner @ [Sigma Discord](https://discord.gg/aCXCcGwMkb)
-
-- Owner @ [Salts.cc](https://https://salts.cc)
 
 
 - All of my projects are available at [https://github.com/sheluvsalt](https://github.com/sheluvsalt)
