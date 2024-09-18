@@ -1,11 +1,5 @@
-<h1 align="center">Hello, I am SALT!</h1>
-<h3 align="center">A Lua scripter.</h3>
-
-- Currently Working on [Futuretops Script.](https://github.com/sheluvsalt/lol/blob/main/Futuretops.lua)
-
-
-
-- All of my projects are available at [https://github.com/sheluvsalt](https://github.com/sheluvsalt)
+<h1 align="center">Hello, I am SALT</h1>
+<h3 align="center">scripter and stuff</h3>
 
 - How to reach me? **Discord: 9zxh**
 
